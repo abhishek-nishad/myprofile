@@ -52,6 +52,7 @@ nav a.active{
 	text-decoration: none;
 }
 header h1{
+	background: rgba(74, 74, 74, 0.1);
 	position: relative;
 	text-align: center;
 	line-height: 40%;
